@@ -1,0 +1,1 @@
+This is a auto judge program using for 600.628 only
